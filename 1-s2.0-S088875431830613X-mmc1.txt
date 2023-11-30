@@ -3180,9 +3180,6 @@ taacgcatgaggctaccttgtatccattgcttctggcaacattaagtctcaaattttcaaAgggtggaagatggctcgca
 tgcgttaatagatatggaaagcggctcggagagaaaagcaaaaggtgagggaattacaaaAcagaatgcgagtcgtctcgc
 >ECK125135053 zupTp           forward 3182433         Strong
 cctaaaaacaatgctggcatacgtgttgaagacatgatgatatccttaactaaaggtgtcAttttgatatcctcacaatac
-The benchmark data 𝐒𝐒𝐰𝐰𝐰𝐰𝐰𝐰𝐰𝐰
-                     +
-                              containing 1791 weak core promoters.
 >ECK125137714 aaeBp3 reverse 3388263 Sigma24 Weak
 caaccagcaagagaacatctggcctgcgggcaccactgctacagtggtggtcactggcaaAcaagatcgcgacgaaagcca
 >ECK125137420 acpSp2 reverse 2701137 Sigma24 Weak
