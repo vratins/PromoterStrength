@@ -1,4 +1,3 @@
-                    +
 >ECK120016719 ahpFp forward 639002 Sigma24 Strong
 tagatgtccttgattaacaccaaaattaaaccttttaaaaaccaggcattcaaaaacggcGaattcatcgaaatcaccgaa
 >ECK120009966 bacAp reverse 3204175 Sigma24 Strong
