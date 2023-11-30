@@ -6765,8 +6765,6 @@ gcctgccaggcgtcttttccggccattgtcgcagcactgtaacgcgtaaaatagtgctttCtcttactcttctggctgga
 catccgggccagggtggagcacccatttcgcatcatcaagcgacagttcggcttcgtgaaAgccagatacaaggggttgct
 >ECK120009961 ygaCp           reverse 2800590 Weak
 gatactagatgtagttgaaaaaagattcaaccacacaatatatagcaaatagtggtcgaaAttaccctggatatgagcgtg
-            The benchmark data 𝐒𝐒 − containing 3382 non-promoter sequences
-
 >non-promoter squence 1
 ttcaaaggtgaaactcaggttactgaccagctgaccggttacggccagtgggaatatcagatccagggcaacagcgctgaa
 >non-promoter squence 2
